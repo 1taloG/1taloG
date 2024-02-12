@@ -18,6 +18,8 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1taloG)](https://github.com/anuraghazra/github-readme-stats)
+
 Estudante apaixonado por tecnologia, adoro quebrar cabeça com isso!
 
 ## Meus contatos:
